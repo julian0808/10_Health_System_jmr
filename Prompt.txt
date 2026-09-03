@@ -1,0 +1,11 @@
+CRUD 
+Create, Read, Update, and Delete. 
+
+Prompt:
+Please help me create a system that allows me to manage hospital patients and create a hero section with a full-width slider and carousel. I would also like a light/dark mode switcher. Please help me build an awesome React JS/Next JS app that allows me to create, read, update and delete. Database in MySQL.
+
+
+Please create and integrate the left panel to make the app more complete.
+Patients
+Schedule
+Insights 
